@@ -1,1 +1,2 @@
 This is my loss Ratio file
+Adding feature 3 for Vwap Calc
