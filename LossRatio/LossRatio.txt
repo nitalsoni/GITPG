@@ -1,1 +1,3 @@
 This is my loss Ratio file
+
+1. Feature to calculate automatic losses
